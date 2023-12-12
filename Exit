@@ -1,0 +1,41 @@
+[33mcommit dcee5fb648a6f30158bcdbb1b8cae2397e7529d1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Fri Dec 8 02:01:01 2023 +0300
+
+    Highlighting Enemies
+
+[33mcommit cd4187c5022eceb040a70cf1c1c920d9b16a886d[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Mon Oct 16 20:54:07 2023 +0300
+
+    Enemy Interface
+
+[33mcommit 72a7d4a565c8b59deed350622318bf759916e577[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Mon Sep 25 23:12:45 2023 +0300
+
+    Inputs
+
+[33mcommit cce1deee1b8ae692599a640ae1b9176205633358[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Mon Sep 25 02:47:36 2023 +0300
+
+    Blueprints Setup
+
+[33mcommit f83d2c8c1aedb2e05aeb1e0de009759f3a8efa94[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Mon Sep 25 01:16:04 2023 +0300
+
+    Character Classes
+
+[33mcommit e59fd49379372418ad2519745156fa43e15fd0b0[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Fri Sep 22 02:13:43 2023 +0300
+
+    The Base Character Class
+
+[33mcommit f573ebf7f26a2e9fdbb4c3f89591226cf6fd7102[m
+Author: Hephaestus770 <m.eneserdogan@gmail.com>
+Date:   Fri Sep 22 01:47:32 2023 +0300
+
+    Initial Project Files
